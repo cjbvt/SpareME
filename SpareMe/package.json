@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react-native": "0.69.12",
     "react-native-firebase": "^3.3.1",
     "react-native-splash-screen": "^3.0.6",
     "react-native-video": "^2.0.0",
